@@ -14,7 +14,7 @@ A curated list of awesome Non-Fungible Token (NFT) marketplaces where you can bu
 ## General
 
 1. [OpenSea](https://opensea.io/) - The largest NFT marketplace supporting a wide range of digital assets.
-2. [Rarible](https://rarible.com/) - A community-owned NFT marketplace allowing creators to mint, buy, and sell digital assets.
+2. [Rarible](https://cryptobestlist.com/rarible/) - A community-owned NFT marketplace allowing creators to mint, buy, and sell digital assets.
 3. [Foundation](https://foundation.app/) - An invitation-only platform for buying and selling digital art NFTs.
 4. [SuperRare](https://www.superrare.com/) - A marketplace for collecting and trading unique digital artworks.
 
